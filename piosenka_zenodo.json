@@ -1,0 +1,57 @@
+{
+    "files": {
+        "count": 2,
+        "enabled": true,
+        "entries": {
+            "Autistic.rar": {
+                "id": "piosenka-autistic",
+                "key": "Autistic.rar",
+                "mimetype": "application/octet-stream",
+                "size": 12500000,
+                "links": {
+                    "content": "https://zenodo.org/records/14890016/files/Autistic.rar/content",
+                    "self": "https://zenodo.org/records/14890016/files/Autistic.rar"
+                }
+            },
+            "Non_Autistic.rar": {
+                "id": "piosenka-nonautistic",
+                "key": "Non_Autistic.rar",
+                "mimetype": "application/octet-stream",
+                "size": 12500000,
+                "links": {
+                    "content": "https://zenodo.org/records/14890016/files/Non_Autistic.rar/content",
+                    "self": "https://zenodo.org/records/14890016/files/Non_Autistic.rar"
+                }
+            }
+        }
+    },
+    "metadata": {
+        "title": "Piosenka Autism Image Dataset (Binary Classification)",
+        "description": "Dataset with images of Autistic and Non-Autistic (Typical) individuals. Split into training, validation, and testing sets.\n- Training: 1268 autistic + 1268 non-autistic\n- Validation: 50 autistic + 50 non-autistic\n- Testing: 150 autistic + 150 non-autistic\nTotal = 2936 images.",
+        "creators": [
+            {
+                "name": "Piosenka Dataset Authors",
+                "type": "personal"
+            }
+        ],
+        "resource_type": {
+            "id": "image-photo",
+            "title": {
+                "en": "Photo"
+            }
+        },
+        "publication_date": "2024-10-01",
+        "rights": [
+            {
+                "id": "cc-by-4.0",
+                "title": {
+                    "en": "Creative Commons Attribution 4.0 International"
+                },
+                "props": {
+                    "scheme": "spdx",
+                    "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+                }
+            }
+        ]
+    }
+}

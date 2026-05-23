@@ -1,0 +1,315 @@
+{
+  "access": {
+    "embargo": {
+      "active": false,
+      "reason": null
+    },
+    "files": "public",
+    "record": "public",
+    "status": "open"
+  },
+  "created": "2024-11-29T10:29:39.414892+00:00",
+  "custom_fields": {},
+  "deletion_status": {
+    "is_deleted": false,
+    "status": "P"
+  },
+  "files": {
+    "count": 4,
+    "enabled": true,
+    "entries": {
+      "high.rar": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:85611dcd68815d2411560a3971cb1407",
+        "ext": "rar",
+        "id": "7b90874a-addc-478a-bbb0-f7a29abaac74",
+        "key": "high.rar",
+        "links": {
+          "content": "https://zenodo.org/api/records/14243186/files/high.rar/content",
+          "self": "https://zenodo.org/api/records/14243186/files/high.rar"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 19639363,
+        "storage_class": "L"
+      },
+      "low.rar": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:2c741515ad63384424cc1e314820d288",
+        "ext": "rar",
+        "id": "e5b8463f-59b2-4e8f-acea-2a8929512b7a",
+        "key": "low.rar",
+        "links": {
+          "content": "https://zenodo.org/api/records/14243186/files/low.rar/content",
+          "self": "https://zenodo.org/api/records/14243186/files/low.rar"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 19306276,
+        "storage_class": "L"
+      },
+      "medium.rar": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:1c3ca8eb774b45751b0feaf94bb1007d",
+        "ext": "rar",
+        "id": "d1ece1e6-e26f-410b-a8d7-8b79c583379e",
+        "key": "medium.rar",
+        "links": {
+          "content": "https://zenodo.org/api/records/14243186/files/medium.rar/content",
+          "self": "https://zenodo.org/api/records/14243186/files/medium.rar"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 20050000,
+        "storage_class": "L"
+      },
+      "mild.rar": {
+        "access": {
+          "hidden": false
+        },
+        "checksum": "md5:a30beffe39425d1ae66368abdc7db361",
+        "ext": "rar",
+        "id": "311bff05-bd9e-48d8-aeeb-e9686907d9b9",
+        "key": "mild.rar",
+        "links": {
+          "content": "https://zenodo.org/api/records/14243186/files/mild.rar/content",
+          "self": "https://zenodo.org/api/records/14243186/files/mild.rar"
+        },
+        "metadata": {},
+        "mimetype": "application/octet-stream",
+        "size": 20388919,
+        "storage_class": "L"
+      }
+    },
+    "order": [],
+    "total_bytes": 79384558
+  },
+  "id": "14243186",
+  "is_draft": false,
+  "is_published": true,
+  "links": {
+    "access": "https://zenodo.org/api/records/14243186/access",
+    "access_grants": "https://zenodo.org/api/records/14243186/access/grants",
+    "access_links": "https://zenodo.org/api/records/14243186/access/links",
+    "access_request": "https://zenodo.org/api/records/14243186/access/request",
+    "access_users": "https://zenodo.org/api/records/14243186/access/users",
+    "archive": "https://zenodo.org/api/records/14243186/files-archive",
+    "archive_media": "https://zenodo.org/api/records/14243186/media-files-archive",
+    "communities": "https://zenodo.org/api/records/14243186/communities",
+    "communities-suggestions": "https://zenodo.org/api/records/14243186/communities-suggestions",
+    "doi": "https://doi.org/10.5281/zenodo.14243186",
+    "draft": "https://zenodo.org/api/records/14243186/draft",
+    "files": "https://zenodo.org/api/records/14243186/files",
+    "latest": "https://zenodo.org/api/records/14243186/versions/latest",
+    "latest_html": "https://zenodo.org/records/14243186/latest",
+    "media_files": "https://zenodo.org/api/records/14243186/media-files",
+    "parent": "https://zenodo.org/api/records/14243185",
+    "parent_doi": "https://doi.org/10.5281/zenodo.14243185",
+    "parent_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14243185",
+    "parent_html": "https://zenodo.org/records/14243185",
+    "preview_html": "https://zenodo.org/records/14243186?preview=1",
+    "requests": "https://zenodo.org/api/records/14243186/requests",
+    "reserve_doi": "https://zenodo.org/api/records/14243186/draft/pids/doi",
+    "self": "https://zenodo.org/api/records/14243186",
+    "self_doi": "https://doi.org/10.5281/zenodo.14243186",
+    "self_doi_html": "https://zenodo.org/doi/10.5281/zenodo.14243186",
+    "self_html": "https://zenodo.org/records/14243186",
+    "self_iiif_manifest": "https://zenodo.org/api/iiif/record:14243186/manifest",
+    "self_iiif_sequence": "https://zenodo.org/api/iiif/record:14243186/sequence/default",
+    "versions": "https://zenodo.org/api/records/14243186/versions"
+  },
+  "media_files": {
+    "count": 0,
+    "enabled": false,
+    "entries": {},
+    "order": [],
+    "total_bytes": 0
+  },
+  "metadata": {
+    "creators": [
+      {
+        "affiliations": [
+          {
+            "id": "007v4hf75",
+            "identifiers": [
+              {
+                "identifier": "007v4hf75",
+                "scheme": "ror"
+              }
+            ],
+            "name": "VIT-AP University"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "CH",
+          "given_name": "Suresh",
+          "identifiers": [
+            {
+              "identifier": "0009-0000-5627-2265",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "CH, Suresh",
+          "type": "personal"
+        },
+        "role": {
+          "id": "datacurator",
+          "title": {
+            "de": "DatenkuratorIn",
+            "en": "Data curator"
+          }
+        }
+      },
+      {
+        "affiliations": [
+          {
+            "id": "007v4hf75",
+            "identifiers": [
+              {
+                "identifier": "007v4hf75",
+                "scheme": "ror"
+              }
+            ],
+            "name": "VIT-AP University"
+          }
+        ],
+        "person_or_org": {
+          "family_name": "G",
+          "given_name": "Muneeswari",
+          "identifiers": [
+            {
+              "identifier": "0009-0004-3021-2896",
+              "scheme": "orcid"
+            }
+          ],
+          "name": "G, Muneeswari",
+          "type": "personal"
+        },
+        "role": {
+          "id": "contactperson",
+          "title": {
+            "de": "Kontaktperson",
+            "en": "Contact person"
+          }
+        }
+      }
+    ],
+    "dates": [
+      {
+        "date": "2024-11-29",
+        "description": "images",
+        "type": {
+          "id": "created",
+          "title": {
+            "de": "Erstellt",
+            "en": "Created"
+          }
+        }
+      }
+    ],
+    "description": "<p>Eye-Tracking (ET) technologies have shown significant potential in autism research, providing critical insights into gaze patterns and their correlation with autism severity. However, a persistent challenge in developing Deep Learning (DL) models for ET analysis is the lack of publicly available, annotated datasets tailored for specific tasks. In order to close this gap, we present a novel, meticulously annotated resource designed to classify autism severity based on ET data. This dataset consists of 4,000 high-resolution (416&times;416 pixels) eye images derived from video recordings of 40 participants, evenly distributed across four autism severity groups: low, mild, medium, and high.</p>\n<p>Each participant's video was processed to extract 50 frames per session, capturing diverse gaze behaviors such as fixations, saccades, and smooth pursuits. Both left and right eye images were segmented from these frames, yielding 100 images per participant and ensuring balanced representation across severity categories (1,000 images per group). The dataset is annotated with detailed metadata, including subject ID, frame number, autism severity level, and eye type (left or right), providing a robust foundation for precise feature extraction and analysis.</p>\n<p><span>Facilitating its application in DL model development, this dataset addresses a critical gap in the limited availability of ET datasets. It provides a robust benchmark for autism severity classification, establishing a foundational resource for advancing Machine Learning(ML) research in the domain of autism</span><span>. This dataset serves as a critical resource for advancing ET-based classification models, fostering accurate and efficient assessment of autism severity, and supporting broader autism research.</span></p>",
+    "languages": [
+      {
+        "id": "eng",
+        "title": {
+          "en": "English"
+        }
+      }
+    ],
+    "publication_date": "2024-11-29",
+    "publisher": "Zenodo",
+    "resource_type": {
+      "id": "image-photo",
+      "title": {
+        "de": "Foto",
+        "en": "Photo"
+      }
+    },
+    "rights": [
+      {
+        "description": {
+          "en": "The Creative Commons Attribution license allows re-distribution and re-use of a licensed work on the condition that the creator is appropriately credited."
+        },
+        "icon": "cc-by-icon",
+        "id": "cc-by-4.0",
+        "props": {
+          "scheme": "spdx",
+          "url": "https://creativecommons.org/licenses/by/4.0/legalcode"
+        },
+        "title": {
+          "en": "Creative Commons Attribution 4.0 International"
+        }
+      }
+    ],
+    "subjects": [
+      {
+        "subject": "Autism Severity Classification, Benchmark Dataset, Eye Gaze Analysis, Eye-Tracking Dataset, Machine Learning in Autism, Neurodevelopmental Disorders"
+      }
+    ],
+    "title": "A Real-Time Eye-Tracking Dataset for Autism Severity Classification Using Deep Learning",
+    "version": "python"
+  },
+  "parent": {
+    "access": {
+      "owned_by": {
+        "user": "1227622"
+      },
+      "settings": {
+        "accept_conditions_text": null,
+        "allow_guest_requests": false,
+        "allow_user_requests": false,
+        "secret_link_expiration": 0
+      }
+    },
+    "communities": {},
+    "id": "14243185",
+    "pids": {
+      "doi": {
+        "client": "datacite",
+        "identifier": "10.5281/zenodo.14243185",
+        "provider": "datacite"
+      }
+    }
+  },
+  "pids": {
+    "doi": {
+      "client": "datacite",
+      "identifier": "10.5281/zenodo.14243186",
+      "provider": "datacite"
+    },
+    "oai": {
+      "identifier": "oai:zenodo.org:14243186",
+      "provider": "oai"
+    }
+  },
+  "revision_id": 3,
+  "stats": {
+    "all_versions": {
+      "data_volume": 2411094566.0,
+      "downloads": 122,
+      "unique_downloads": 93,
+      "unique_views": 112,
+      "views": 128
+    },
+    "this_version": {
+      "data_volume": 2411094566.0,
+      "downloads": 122,
+      "unique_downloads": 93,
+      "unique_views": 112,
+      "views": 128
+    }
+  },
+  "status": "published",
+  "swh": {},
+  "updated": "2024-11-29T10:29:39.673381+00:00",
+  "versions": {
+    "index": 1,
+    "is_latest": true
+  }
+}
